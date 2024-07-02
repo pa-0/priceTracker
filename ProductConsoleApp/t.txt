@@ -1,0 +1,8 @@
+if (result is Microsoft.AspNetCore.Mvc.OkResult)
+                {
+                    Console.WriteLine($"Products created successfully for entry ID {entry.Id}.");
+                }
+                else
+                {
+                    Console.WriteLine($"Failed to create products for entry ID {entry.Id}.");
+                }
