@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "priceTracker", "priceTracker\priceTracker.csproj", "{2FAB896F-15CC-4EB2-821C-692A29F9404F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FAB896F-15CC-4EB2-821C-692A29F9404F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAB896F-15CC-4EB2-821C-692A29F9404F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAB896F-15CC-4EB2-821C-692A29F9404F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAB896F-15CC-4EB2-821C-692A29F9404F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.DependencyInjection;
+
+
+namespace priceTracker
+{
+    public class Startup
+    {
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddMvc();
+        }
+
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        {
+            if(env.IsDevelopment()){
+                app.UseDeveloperExceptionPage();
+            }
+
+            app.UseStaticFiles();
+
+           app.UseMvc(routes =>
+            {
+                routes.MapRoute(
+                    name: "default",
+                    template: "{controller=Home}/{action=Index}/{id?}");
+            });
+        }
+    }
+}
