@@ -1,0 +1,77 @@
+@model priceTracker.Models.Entry
+
+<section class="content-header">
+    <h1>
+    Entrys
+    </h1>
+</section>
+<section class="content container-fluid">
+    <div class="box box-info">
+        <div class="box-header with-border">
+            <h3 class="box-title">Add Entry</h3>
+        </div>
+        <form class="form-horizontal" method="post" action="CreateEntry">
+            <div class="box-body">
+                <div class="form-group">
+                    <label for="StartDate" class="col-sm-2 control-label">StartDate</label>
+                    <div class="col-sm-10">
+                        <div class="Date">
+                            <label><input type="date" name="StartDate" id="StartDate" value="true"></label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="FinishDate" class="col-sm-2 control-label">FinishDate</label>
+                    <div class="col-sm-10">
+                        <div class="Date">
+                            <label><input type="date" name="FinishDate" id="FinishDate" value="true"></label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="url1" class="col-sm-2 control-label">URL 1</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" name="url1" id="url1" placeholder="URL 1">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="url2" class="col-sm-2 control-label">URL 2</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" name="url2" id="url2" placeholder="URL 2">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="url3" class="col-sm-2 control-label">URL 3</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" name="url3" id="url3" placeholder="URL 3">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="url4" class="col-sm-2 control-label">URL 4</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" name="url4" id="url4" placeholder="URL 4">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="url5" class="col-sm-2 control-label">URL 5</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" name="url5" id="url5" placeholder="URL 5">
+                    </div>
+                </div>
+            </div>
+            <div class="box-footer">
+                <button type="submit" class="btn btn-default">Cancel</button>
+                <button type="submit" class="btn btn-info pull-right">Add</button>
+            </div>
+        </form>
+        @if (Model != null && Model.Id != 0)
+        {
+            <form class="form-horizontal" method="post" action="/Entrys/CreateProductsForEntry">
+                <div class="box-footer">
+                    <input type="hidden" name="entryId" value="@Model.Id" />
+                    <button type="submit" class="btn btn-success pull-right">Create Products</button>
+                </div>
+            </form>
+        }
+    </div>
+</section>

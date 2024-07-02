@@ -1,0 +1,116 @@
+@model IEnumerable<priceTracker.Models.Product>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Products with Selected ID</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Name</th>
+            <th>URL</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.ProdId)</td>
+            <td>
+                <span>@item.ProductName</span>
+                <input type="text" value="@item.ProductName" class="form-control edit-field" style="display:none;">
+            </td>
+            <td>
+                <span>@item.Url</span>
+                <input type="text" value="@item.Url" class="form-control edit-field" style="display:none;">
+            </td>
+            <td>
+                <span>@item.Price</span>
+                <input type="text" value="@item.Price" class="form-control edit-field" style="display:none;">
+            </td>
+            <td>
+                <a class="btn btn-sm btn-primary" href="@Url.Action("Edit","Products",new {id=item.Id})">Edit</a>
+                <button class="btn btn-success save-btn" style="display:none;">Save</button>
+                <button class="btn btn-secondary cancel-btn" style="display:none;">Cancel</button>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<!--<script>
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Script loaded");
+
+    document.addEventListener('click', function(event) {
+        if (event.target.matches('.edit-btn')) {
+            const row = event.target.closest('tr');
+            toggleEdit(row, true);
+        } else if (event.target.matches('.save-btn')) {
+            const row = event.target.closest('tr');
+            saveChanges(row);
+            event.preventDefault(); 
+        } else if (event.target.matches('.cancel-btn')) {
+            const row = event.target.closest('tr');
+            toggleEdit(row, false);
+        }
+    });
+
+    function toggleEdit(row, editing) {
+        console.log("Toggling edit mode:", editing);
+        row.querySelectorAll('.edit-field').forEach(input => input.style.display = editing ? 'inline-block' : 'none');
+        row.querySelectorAll('span').forEach(span => span.style.display = editing ? 'none' : 'inline');
+        row.querySelector('.edit-btn').style.display = editing ? 'none' : 'inline-block';
+        row.querySelector('.save-btn').style.display = editing ? 'inline-block' : 'none';
+        row.querySelector('.cancel-btn').style.display = editing ? 'inline-block' : 'none';
+    }
+
+    function saveChanges(row) {
+        console.log("Saving changes");
+
+        const productId = row.cells[0].textContent.trim();
+        const productName = row.querySelector('input[name="productName"]').value;
+        const productUrl = row.querySelector('input[name="url"]').value;
+        const productPrice = row.querySelector('input[name="price"]').value;
+
+        console.log("Data to save:", { productId, productName, productUrl, productPrice });
+
+        fetch(`/Products/EditProduct`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                Id: parseInt(productId, 10),
+                ProductName: productName,
+                Url: productUrl,
+                Price: parseFloat(productPrice)
+            })
+        })
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            console.log('Success:', data);
+            if (data.success) {
+                alert("Product updated successfully.");
+                toggleEdit(row, false);
+            } else {
+                alert("Update failed: " + data.message);
+            }
+        })
+        .catch((error) => {
+            console.error('Error:', error);
+            alert("Failed to update product.");
+        });
+    }
+});
+
+</script>-->

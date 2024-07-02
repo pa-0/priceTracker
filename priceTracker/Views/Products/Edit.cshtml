@@ -1,0 +1,58 @@
+@using priceTracker.Models;
+@model Product
+@{
+}
+<div class="row">
+    <div class="col-md-12">
+        <form method="post" action="@Url.Action("Update","Products")">
+            <input type="hidden" name="Id" value="@Model.Id" />
+            <input type="hidden" name="ProdId" value="@Model?.ProdId" />
+            <input type="hidden" name="Date" value="@Model?.Date "/>  
+            <div class="form-group">
+                <label>ProductName</label>
+                <input type="text" class="form-control" name="ProductName" placeholder="ProductName" value="@Model.ProductName" >
+            </div>
+            <div class="form-group">
+                <label>Url</label>
+                <input type="text" class="form-control" name="Url" placeholder="Url" value="@Model.Url" required>
+            </div>
+            <div class="form-group">
+                <label>Price</label>
+                <input type="number" class="form-control" name="Price" placeholder="Price" value="@Model.Price" >
+            </div>
+            
+            <button class="btn btn-success" type="submit">Update Product</button>
+        </form>
+    </div>
+</div>
+
+
+
+
+<!--
+<form asp-action="EditProduct">
+    <div class="form-group">
+        <label asp-for="ProductName" class="control-label">ProductName</label>
+        <input asp-for="ProductName" class="form-control" />
+        <span asp-validation-for="ProductName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="price" class="control-label">price</label>
+        <input asp-for="price" class="form-control" />
+        <span asp-validation-for="price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="url" class="control-label">url</label>
+        <input asp-for="url" class="form-control" />
+        <span asp-validation-for="url" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </div>
+</form>
+
+-->

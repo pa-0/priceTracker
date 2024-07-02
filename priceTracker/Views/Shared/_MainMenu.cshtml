@@ -1,0 +1,15 @@
+@using priceTracker.Helpers;
+
+<ul class="sidebar-menu" data-widget="tree">
+<li class="header">Menu</li>
+<!-- Optionally, you can add icons to the links -->
+<li class="@Html.IsActive("Products", "active", "")">
+    <a href="/Products"><i class="fa fa-link"></i> <span>Products</span></a>
+</li>
+<li class="@Html.IsActive("Entrys/Create", "active", "")">
+    <a href="/Entrys/Create"><i class="fa fa-link"></i> <span>Create Entry</span></a>
+</li>
+<li class="@Html.IsActive("Display/SelectProdId", "active", "")">
+    <a href="/Display/SelectProdId"><i class="fa fa-link"></i> <span>By Categorie</span></a>
+</li>
+</ul>

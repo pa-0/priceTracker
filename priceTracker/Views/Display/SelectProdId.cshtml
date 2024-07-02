@@ -1,0 +1,13 @@
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Select a Product ID</h2>
+
+<form action="@Url.Action("DisplayProducts", "Display")" method="get">
+    <div class="form-group">
+        <label for="prodId">Product ID:</label>
+        @Html.DropDownList("prodId", ViewBag.ProdIds as SelectList, "Select a Product ID", new { @class = "form-control" })
+    </div>
+    <button type="submit" class="btn btn-primary">Show Products</button>
+</form>

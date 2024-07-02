@@ -1,0 +1,55 @@
+@model IEnumerable<priceTracker.Models.Product>
+
+@{
+    ViewBag.Title = "Select Product";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Use your standard layout if applicable
+}
+
+<h2>Select Product</h2>
+
+<div class="container">
+    <table class="table table-hover table-bordered">
+        <thead>
+            <tr>
+                <th>Product ID</th>
+                <th>Name</th>
+                <th>Website</th>
+                <th>Price</th>
+                <th>Date</th>
+                <th>Url</th>
+                <th>Link Number</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.ProdId)</td>
+                <td>@Html.DisplayFor(modelItem => item.ProductName)</td>
+                <td>@Html.DisplayFor(modelItem => item.SiteName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                <td>@Html.DisplayFor(modelItem => item.Date)</td>
+                <td>@Html.DisplayFor(modelItem => item.Url)</td>
+                <td>@Html.DisplayFor(modelItem => item.UrlNumber)</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script src="~/Scripts/jquery.dataTables.min.js"></script>
+    <script src="~/Scripts/dataTables.bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.table').DataTable({
+                "paging": true,
+                "lengthChange": false,
+                "searching": true,
+                "ordering": true,
+                "info": true,
+                "autoWidth": false
+            });
+        });
+    </script>
+}

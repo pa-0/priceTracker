@@ -1,0 +1,957 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\css\\bootstrap\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\AdminLTE.css",
+      "PackagePath": "staticwebassets\\dist\\css\\AdminLTE.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\AdminLTE.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\AdminLTE.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\alt\\AdminLTE-bootstrap-social.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-bootstrap-social.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\alt\\AdminLTE-fullcalendar.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\alt\\AdminLTE-select2.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-select2.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\alt\\AdminLTE-select2.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\alt\\AdminLTE-without-plugins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-without-plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\alt\\AdminLTE-without-plugins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-without-plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\_all-skins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\_all-skins.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\_all-skins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\_all-skins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-black-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black-light.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-black-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-black.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-black.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-blue-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue-light.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-blue-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-blue.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-blue.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-green-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green-light.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-green-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-green.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-green.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-purple-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple-light.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-purple-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-purple.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-purple.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-red-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red-light.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-red-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-red.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-red.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-yellow-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow-light.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-yellow-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow-light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-yellow.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\css\\skins\\skin-yellow.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\avatar04.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar04.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\credit\\mestro.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mestro.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\default-50x50.gif",
+      "PackagePath": "staticwebassets\\dist\\img\\default-50x50.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\grey.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\grey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Downloads\\pt\\priceTracker\\priceTracker\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.priceTracker.props",
+      "PackagePath": "build\\priceTracker.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.priceTracker.props",
+      "PackagePath": "buildMultiTargeting\\priceTracker.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.priceTracker.props",
+      "PackagePath": "buildTransitive\\priceTracker.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.priceTracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.priceTracker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
